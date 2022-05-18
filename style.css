@@ -1,0 +1,21 @@
+.form-group #subt:hover{
+    color: rgb(137, 11, 11);
+    background-color: #3e07a3;
+    border-color: #0084da;
+  }
+  
+
+
+.clock {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #010708;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+   
+
+
+}
